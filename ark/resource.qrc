@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>going.mp3</file>
+        <file>start.mp3</file>
+        <file>OPTION.FLL</file>
+        <file>BS00.gif</file>
+        <file>BS01.gif</file>
+        <file>BS02.gif</file>
+        <file>BS03.gif</file>
+        <file>gascanofvictory.wav</file>
+        <file>star.png</file>
+        <file>defeat.jpg</file>
+        <file>victory.jpg</file>
+        <file>head.jpg</file>
+        <file>DATA.FLL</file>
+        <file>img/Cuora.png</file>
+        <file>img/Irene.png</file>
+        <file>img/Kal_tsit.png</file>
+        <file>img/Matterhorn.png</file>
+        <file>img/Mlynar.png</file>
+        <file>img/Mon3tr.png</file>
+        <file>img/Reed.png</file>
+        <file>img/Saria.png</file>
+        <file>img/Surtr.png</file>
+        <file>img/Texas_the_Omertosa.png</file>
+        <file>img/Wild_Mane.png</file>
+    </qresource>
+</RCC>
